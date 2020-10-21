@@ -1,12 +1,14 @@
 .font-size-16{
-	font-size: 20px;
-}
-.text-red{
-	color: #D53633;
-}
-.font-size-14{
 	font-size: 16px;
 }
-.text-gray{
-	color: #3A3939;
+
+.font-rb{
+	font-family: 'Roboto', sans-serif;
+}
+.btn:hover{
+	background: #000;
+
+}
+#service{
+	background: #f6f6f6;
 }
